@@ -20,12 +20,31 @@ body {
     background: #ffffff;
 }
 
-h1, h2, h3. h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
     color: #036;
+    padding: 5px 20px;
+}
+
+.topo-header {
+    background: #036;
     padding: 5px 20px;
 }
 
 .topo-header h1 {
     font-size: 36px;
     margin: 4px 0 2px 0;
+    text-align: right;
+    color: #ffffff;
+}
+
+.topo-header a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.topo-header h2 {
+    font-size: 20px;
+    margin: 2px 0 4px 0;
+    text-align: right;
+    color: #ffffff;
 }
