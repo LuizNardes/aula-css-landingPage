@@ -1,0 +1,26 @@
+/* reset css */
+*, *:before, *:after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* body */
+body {
+    font: 18px arial, sans-serif;
+    color: #333;
+    background: #cccccc;
+}
+
+#tudo {
+    width: 100%;
+    max-width: 1200px;
+    min-width: 760px;
+    margin: 0 auto;
+    background: #ffffff;
+}
+
+h1, h2, h3. h4, h5, h6 {
+    color: #036;
+
+}
